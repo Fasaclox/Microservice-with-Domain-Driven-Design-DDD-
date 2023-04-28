@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SrY4rxxKB+UZmM3YpnzK0L6WbW0pojvbHrucHUnk3FQ=",
+  "Source": "tvq-product-service.Domain",
+  "BasePath": "_content/tvq-product-service.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

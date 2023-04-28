@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "t4qxeFRF6oHiCQykRgkkbOglDq+YvThPqHSPgL4lj/o=",
+  "Source": "tvq-product-service.Infrastructure",
+  "BasePath": "_content/tvq-product-service.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Anayo\\Desktop\\tvq-product-service\\tvq-product-service.Domain\\tvq-product-service.Domain.csproj",
+      "Version": 2,
+      "Source": "tvq-product-service.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

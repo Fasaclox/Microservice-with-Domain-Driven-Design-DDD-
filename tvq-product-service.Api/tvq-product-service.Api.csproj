@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>tvq_product_service.Api</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3"/>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\tvq-product-service.Domain\tvq-product-service.Domain.csproj"/>
+    <ProjectReference Include="..\tvq-product-service.Infrastructure\tvq-product-service.Infrastructure.csproj"/>
+  </ItemGroup>
+</Project>
